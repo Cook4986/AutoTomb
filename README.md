@@ -1,6 +1,6 @@
 # AutoTomb
 ![autotomb Unity screencap](https://github.com/Cook4986/AutoTomb/blob/main/autotombScreencap.png)
-Takes [Digital Giza tomb pages](http://giza.fas.harvard.edu/sites/532/full/) and returns a set of AI generated 3D models corresponding to contemporaneous (i.e., ancient Egyptian) object references mentioned in early 20th century excavation diaries. The notebook also returns a log of all prompts, local outputs, and X,Y,Z coordinates for placing the models in 3D space, including in downstream XR environments. AutoTomb is a targeted fork/refactor of [Longhand](https://github.com/Cook4986/Longhand), which affords humanities researchers the opportuinty to physically navigate text.
+Takes [Digital Giza tomb pages](http://giza.fas.harvard.edu/sites/532/full/) and returns a set of AI generated 3D models corresponding to contemporaneous (i.e., ancient Egyptian) object references mentioned in early 20th century excavation diaries. The notebook also returns a log of all prompts, local outputs, and X,Y,Z coordinates for placing the models in 3D space, including in downstream XR environments. AutoTomb is a targeted fork/refactor of [Longhand](https://github.com/Cook4986/Longhand), which affords humanities researchers the opportuinty to physically navigate text. Test an alpha build at [autotomb.pages.dev](https://autotomb.pages.dev/).
 ## Use
 
 ### 3D Asset Generation
